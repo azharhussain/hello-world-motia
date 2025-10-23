@@ -6,4 +6,5 @@ venv
 .mermaid
 dist
 *.pyc
+
 .DS_Store
